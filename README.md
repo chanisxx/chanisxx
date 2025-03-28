@@ -1,10 +1,11 @@
 ### Hi 👋
 
-My name is [Chanis](https://www.linkedin.com/in/chanis-torres-1b384b1ab/). I like to get involved in exciting projects and learn new things.
+My name is [Chanis](https://www.linkedin.com/in/chanis-torres-1b384b1ab/). I love to learn new things!
 
-- Majoring in Mechanical Engineering
-- Learning how to code at Lambda School
-- Interested in robotics
+🚀 Currently working on:
+- Managing and customizing Learning management systems
+- Building user-friendly websites and boosting site performance
+- Creating engaging K-12 STEM curriculum
 
 <!--
 **chanisxx/chanisxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
